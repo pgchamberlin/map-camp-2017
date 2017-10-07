@@ -1,0 +1,46 @@
+# Liz Keogh
+
+ - Cynefin (sounds like "kern-ev-in")
+ - Epiphany vs Apophany
+ - Apophany, Claus Konrad coined, means the kind of epiphany schizophrenics have: seeing patterns that aren't there.
+ - Example: a photo of the surface of Mars that looks like an elephant.
+ - Some conservation groups don't recognise the discovery that there are two species of African elephants, because their tracking systems can't cope
+ - Apophenia simultaneously extremely useful and highly hazardous
+ - We filter the data we observe
+ - Beliefs dictate how we filter data: this produces confirmation bias
+ - Pareidolia, actor-observer bias, Google effect... there are so many biases we suffer from
+ - Our brains are broken when it comes to understanding uncertainty
+ - There is an assuption that there is order and predictability
+ - Cynefin framework. Obvious things, complicated things, chaos, complexity
+ - Obvious things, complicated things => predictable outcomes
+ - Chaos => need to act quickly
+ - Complex => cause and effect can be correlated, but only in retrospect
+ - Obvious: sense, categorise, respond
+ - Complicated: sense, analyse, respond
+ - Chaotic: act, sense, respond
+ - Complex: probe, sense, respond
+ - Emergent outcomes, processes
+ - In the middle is disorder, we can Eapply our preferred pattern to disorder but it tends to chaos
+ - Systems are complex and adaptive, agents can change the system
+ - Estimating complexity
+ - 5: Nobody has ever done it before
+ - 4: Someone outside the org has
+ - 3: Someone in the company has done it
+ - 2: Someone in the team has
+ - 1: We all know how to do it
+ - 5 to 1 moves from complex to obvious
+ - Things that are 1s: should they be commodities?
+ - Safe-to-fail Rpbes: know if it's succeeding or not? Have lever to dampen or amplify. Coherence: a realistic reason to think the probes might succeed.
+ - Coherence: "Can you give me an example"
+ - BDD approaches: given x then y, z
+ - We often don't try things because there's a "but it won't work" voice in our heads
+ - Correlation in retrospect
+ - Second order effects: more police on the street = more crime reported because people reporting crime to them
+ - Cognitive Edge "Sensemaker", gathers
+ - Identify "dispositions" in systems, find ways to change from bad ones to good ones
+ - Where is change landing and succeeding? Listen out.
+ - Use existing disposition
+ - Complexity is dominated by relationships. Don't just think about nodes, think about relationships. That's what you are changing.
+ - Relentless positivity. If you want to get things going you need to be relentless.
+ - Get people started, break the initial inertia.
+ - We notice what we do wrong more than what we do right.
