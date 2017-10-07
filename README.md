@@ -9,6 +9,7 @@ This repo is a document of that event.
 If you were at Map Camp and have your own notes please add them to this repo by raising a pull request. It would be great to add things like Twitter handles for speakers, and if you are one of the speakers please add a link to your slides if possible.
 
 ## Speakers
+ - Simon Wardley
  - Liam Maxwell
  - Hadley Beeman
  - Julie Pearce
@@ -19,6 +20,9 @@ If you were at Map Camp and have your own notes please add them to this repo by 
  - James Findlay & James Duncan
  - Adrian Cockroft
  - Tal Klein
+
+Simon Wardley
+ - Crossing the river by feeling the stones
 
 Liam Maxwell 
  - Gov must move from silos to platforms
