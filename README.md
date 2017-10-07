@@ -4,11 +4,11 @@ Map Camp 2017 was a single day conference on Wardley mapping, held in London: ht
 
 This repo is a document of that event.
 
-## Contribute to these notes
+## Contribute to these notes
 
 If you were at Map Camp and have your own notes please add them to this repo by raising a pull request. It would be great to add things like Twitter handles for speakers, and if you are one of the speakers please add a link to your slides if possible.
 
-## Speakers
+## Speakers
  - Liam Maxwell
  - Hadley Beeman
  - Julie Pearce
