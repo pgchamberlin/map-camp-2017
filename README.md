@@ -8,7 +8,9 @@ This repo is a document of that event based on my (sparse) notes, there's lot mi
 
 If you were at Map Camp and have your own notes please add them to this repo by raising a pull request. It would be great to add things like Twitter handles for speakers, and if you are one of the speakers please add a link to your slides if possible.
 
-## Speakers and notes
+If you have notes from the mapping workshops it would be great to include them here too.
+
+## Talks in the main hall
  - [Simon Wardley](simon_wardley.md)
  - [Liam Maxwell](liam_maxwell.md)
  - [Hadley Beeman](hadley_beeman.md)
@@ -20,3 +22,7 @@ If you were at Map Camp and have your own notes please add them to this repo by 
  - [James Findlay and James Duncan](findlay_and_duncan.md)
  - [Adrian Cockroft](adrian_cockcroft.md)
  - [Tal Klein](tal_klein.md)
+
+## Mapping workshops
+
+Throughout the day there were workshops on mapping. Hopefully some people will contribute notes from them.
