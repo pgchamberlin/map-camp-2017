@@ -11,7 +11,7 @@ If you were at Map Camp and have your own notes please add them to this repo by 
 ## Speakers
  - Simon Wardley
  - [Liam Maxwell](liam_maxwell.md)
- - Hadley Beeman
+ - [Hadley Beeman](hadley_beeman.md)
  - Julie Pearce
  - Paul Shetler
  - Chris Adams
