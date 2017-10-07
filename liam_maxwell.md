@@ -1,0 +1,27 @@
+# Liam Maxwell
+
+ - Gov must move from silos to platforms
+ - Introduction of open standards and data
+ - Coding in the open means sharing
+ - Common standards means common tools
+ - Outcome based teams
+ - Change needs spend controls
+ - Square of despair: procurement, security, legacy, capability
+ - Institute for Government encouraged tyranny of agile
+ - How can we get to AGILE(tm)? Doing it properly
+ - Mapping tells us which techniques to use
+ - Cassian Young: how would you do this in a dept. and how would you use a map?
+ - Mapped incident management using maps
+ - Identified utilities, things that could be SaaS
+ - Identified areas of custom
+ - What's up with hosting?
+ - Gov spending £1.6bn per year on hosting
+ - Lots of hosting comes with added lock-in in contract
+ - Gov lock ins broken by Crown Hosting, the "Hotel California" where you check in your legacy but where it can never leave
+ - Depts can then move on
+ - Used open to unlock change
+ - Competition could then drive technology model
+ - High degree of open source
+ - High engagement from SMEs
+ - What is a minimum viable agency?
+ - PaaS, Registers, Open source -> multidisciplinary teams -> GOV.UK, supported by user research, continuous delivery
