@@ -1,0 +1,25 @@
+# Chris Adams
+
+ - Mapping by Example
+ - How do I talk about what's hapening in my org?
+ - Business model canvas? Product roadmap?
+ - Tells me the what and the now, but not the why and the future
+ - We are planning to detect icebergs by ramming them
+ - Useful features of maps: anchor: keep user in the picture, position: how are we set up to meet their needs?, movement: how might things change
+ - Maps help with movement in a  unique way, are information dense, and explicit
+ - Mapped value chain for website company + added evolution
+ - It looks messy at first, that's fine
+ - Client doesn't say "good job on configuring Postgres Chris!". Doesn't happen.
+ - Will I get better at ops than Amazon? No
+ - Will clients expect us to be familiar with the things on the right? Yes.
+ - Growing Communities company in Hackney. Legacy website, lots of problems. What to do? Map.
+ - What the core user need? Veg boxes.
+ - Spent a couple of times looking into writing an open source thing but found out how hard it is
+ - "Mapunditry"
+ - How the battle of cloud was lost example. Map Amazon vs traditional.
+ - Another example: Why would FB send the GDP of Iceland on WhatsApp?
+ - Monetizing the social graph: the people who know each other
+ - WhatsApp was a messaging app choking FBs value chain: keep in touch with your family without eyeballs in front of FB ads
+ - How to get practice mapping? 
+ - AWMUG (Amateur Wardley Mapping User Group)
+ - https://awmug.org
