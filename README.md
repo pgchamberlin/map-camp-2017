@@ -8,7 +8,7 @@ This repo is a document of that event based on my (sparse) notes, there's lot mi
 
 If you were at Map Camp and have your own notes please add them to this repo by raising a pull request. It would be great to add things like Twitter handles for speakers, and if you are one of the speakers please add a link to your slides if possible.
 
-## Speakers
+## Speakers and notes
  - [Simon Wardley](simon_wardley.md)
  - [Liam Maxwell](liam_maxwell.md)
  - [Hadley Beeman](hadley_beeman.md)
