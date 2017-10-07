@@ -2,7 +2,7 @@
 
 Map Camp 2017 was a single day conference on Wardley mapping, held in London: http://www.map-camp.com/
 
-This repo is a document of that event based on my (sparse) notes.
+This repo is a document of that event based on my (sparse) notes, there's lot missing so please contribute to help fill in the gaps.
 
 ## Contribute to these notes
 
